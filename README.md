@@ -22,9 +22,3 @@ streamlit run app.py
 - Brazil
 - Germany
 
-
-## Dashboard Preview
-
-![Dashboard](dashboard1.png)
-![Trend](dashboard2.png)
-![Recommendation](dashboard3.png)
